@@ -15,10 +15,10 @@ if you don’t do it, but if your current average is greater than your score on 
 
 # Requirements
 ## General
-* Allowed editors: vi, vim, emacs
+* Allowed editors: ``vi, vim, emacs``
 * All your files will be compiled on Ubuntu 20.04 LTS
 * All your files should end with a new line
-* A README.md file, at the root of the folder of the project is mandatory
+* A ``README.md`` file, at the root of the folder of the project is mandatory
 
 # Tasks
 ## 0. FizzBuzz
